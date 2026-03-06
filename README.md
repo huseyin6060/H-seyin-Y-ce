@@ -3,9 +3,9 @@
 ### Computer Programmer | IoT Expert | FS25 Modding Specialist
 
 <p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=huseyin6060&theme=tokyonight&column=7" alt="Hüseyin's Trophies" />
- </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=huseyin6060&theme=tokyonight&column=7&v=1" alt="Hüseyin's Trophies" />
+  </a>
 </p>
 
 ---
@@ -19,21 +19,21 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 ### 🛠 Teknik Yetenek Envanteri
 
 #### 🏆 Üst Düzey & Uzmanlık (Expert)
-- **Arduino & Gömülü Sistemler:** İleri düzey devre tasarımı ve donanım programlama (Elektronik bilgisi dahil).
-- **Giants Editor:** FS25 için profesyonel convert, i3D düzenleme ve teknik modlama işlemleri.
+- **Arduino & Gömülü Sistemler:** İleri düzey devre tasarımı ve donanım programlama.
+- **Giants Editor:** FS25 için profesyonel convert, i3D düzenleme ve teknik modlama.
 
 #### 🥇 İleri Seviye (Advanced)
-- **Yazılım & Veri:** C#, SQL ve MSSQL ile kurumsal veri yönetimi ve uygulama geliştirme.
-- **Sistem Mimarisi:** Windows sistem yönetimi ve ileri düzey bilgisayar optimizasyon ayarları.
+- **Yazılım & Veri:** C#, SQL ve MSSQL ile kurumsal veri yönetimi.
+- **Sistem Mimarisi:** Windows sistem yönetimi ve ileri düzey optimizasyon.
 
 #### 🥈 Orta Seviye (Intermediate)
 - **Web Tasarım:** Modern HTML5 ve CSS3 arayüz geliştirme.
-- **3D Modelleme:** Blender ile oyun içi obje ve varlık oluşturma.
-- **IDE:** Visual Studio Code üzerinde profesyonel çalışma ortamı yönetimi.
+- **3D Modelleme:** Blender ile oyun içi obje üretimi.
+- **IDE:** Visual Studio Code üzerinde profesyonel çalışma.
 
 #### 🥉 Giriş Seviyesi (Beginner)
-- **Siber Güvenlik:** Kali Linux ile ağ testleri ve sızma simülasyonları.
-- **Yazılım & Araçlar:** **Raispy kullanımı** ve temel kodlama çalışmaları.
+- **Siber Güvenlik:** Kali Linux ile ağ testleri.
+- **Yazılım & Araçlar:** Raispy kullanımı ve temel kodlama.
 
 ---
 
@@ -56,12 +56,12 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huseyin6060&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin6060&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huseyin6060&show_icons=true&theme=tokyonight&count_private=true&v=1" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin6060&layout=compact&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyin6060&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyin6060&theme=tokyonight&v=1" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 ### 📫 İletişim
 
 <p align="left">
-<a href="mailto:karadenizadahan099@gmail.com" target="blank">
+<a href="mailto:huseyinyuce778@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
